@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/saliharya/tailwind-team-project/issues"
   },
-  "homepage": "https://github.com/saliharya/tailwind-team-project#readme"
+  "homepage": "https://github.com/saliharya/tailwind-team-project#readme",
+  "dependencies": {
+    "tw-elements": "^1.0.0-alpha12"
+  }
 }

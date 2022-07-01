@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['index.html'],
+  content: ['index.html', './node_modules/tw-elements/dist/js/index.min.js'],
   theme: {
     container: {
       center: true,
@@ -17,5 +17,7 @@ module.exports = {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require('tw-elements/dist/plugin')
+  ],
 }
