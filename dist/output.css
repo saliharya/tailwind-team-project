@@ -4460,6 +4460,10 @@ textarea.form-control.is-invalid {
   padding-bottom: 3rem;
 }
 
+.pt-12 {
+  padding-top: 3rem;
+}
+
 .pt-36 {
   padding-top: 9rem;
 }
