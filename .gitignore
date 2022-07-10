@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,node
+# Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode
 
 package-lock.json
 
@@ -95,7 +95,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -168,5 +167,4 @@ dist
 # Ignore code-workspaces
 *.code-workspace
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node
-
+# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
